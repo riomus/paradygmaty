@@ -1,0 +1,32 @@
+title: "Paradygmaty programowania 2016/2017 zima"
+description: ""
+about: ""
+location: "Poniedziałek 7:30, 9:15; B-1 408"
+email: roman.bartusiak@pwr.edu.pl
+baseurl: ""
+url: "http://paradygmaty.ml" # replace by your site's url
+twitter_username: riomus
+github_username:  riomus
+
+# google analytics tracking code, please change the value
+g_analytics: ""
+
+# language settings
+isolang: en
+close_btn: "Close"
+home_btn: "Home"
+projects_btn: "Projects"
+posts_btn: "Informacje"
+imprint_btn: "Imprint"
+name_badge: "napisane przez"
+lists_btn: "Listy"
+rules_btn: "Warunki zaliczenia"
+rss_badge: ""
+
+# build settings
+markdown: kramdown
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md
